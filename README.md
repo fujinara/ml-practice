@@ -1,3 +1,3 @@
 # ml-practice
 
-Contains my own experience of using common ML/DL algorithms.
+My own experience with common ML/DL algorithms.
